@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Honorable William Lenthal esq; Speaker of the Honorable House of Commons, from Col: Morgan Governor of Glocester, concerning the whole proceedings of the siege before Raglan-Castle. Together with the several summons of the said Colonel to the Earl of Worcester, and the Earls obstinate answers thereunto. VVhich letter and summons were appointed by the Honorable W: Lenthal Esq, Speaker of the Honorable House of Commons to be forthwith printed and published.</title>
+            <author>Morgan, Thomas, Sir, d. 1679?</author>
+         </titleStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89309</idno><idno type="EEBO-CITATION">99861550</idno>
+  <idno type="VID">159772</idno>
+  <idno type="EEBO-PROQUEST">2240912205</idno>
+  
+            <idno type="STC">Wing M2748</idno>
+            <idno type="STC">Thomason E342_16</idno>
+            <idno type="STC">ESTC R200936</idno>
+            <idno type="PROQUEST">99861550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861550e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159772)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Honorable William Lenthal esq; Speaker of the Honorable House of Commons, from Col: Morgan Governor of Glocester, concerning the whole proceedings of the siege before Raglan-Castle. Together with the several summons of the said Colonel to the Earl of Worcester, and the Earls obstinate answers thereunto. VVhich letter and summons were appointed by the Honorable W: Lenthal Esq, Speaker of the Honorable House of Commons to be forthwith printed and published.</title>
+                  <author>Morgan, Thomas, Sir, d. 1679?</author>
+                  <author>Worcester, Henry Somerset, Marquis of, 1577-1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Raglan Castle (Raglan, Monmouthshire) --  History --  Siege, 1646 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159772:1"/>
+            <p> A LETTER TO The Honorable <hi>William Lenthal</hi> esq; Speaker of the Honorable House of Commons, FROM Col: <hi>Morgan</hi> Governor of <hi>Glocester,</hi> CONCERNING The whole Proceedings of the Siege before Raglan-Castle.</p>
+            <p>Together with the several Summons of the said Colonel to the Earl or <hi>Wor<g ref="char:EOLhyphen"/>cester,</hi> and the Earls obstinate Answers thereunto.</p>
+            <p>
+               <hi>VVHich Letter and Summons were appointed by the Honorable</hi> W: Lenthal <hi>Esq; Speaker of the Honorable House of Commons to be forthwith print<g ref="char:EOLhyphen"/>ed and published.</hi>
+            </p>
+            <p>Printed for <hi>E. Husband,</hi> Printer to the Honorable House of <hi>Commons.</hi>
+            </p>
+            <pb facs="tcp:159772:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:159772:2"/>
+            <head>To the Hono<seg rend="sup">ble</seg>
+               <hi>William Lenthal</hi>
+               <abbr>esq</abbr>; Speaker of the Honorable House of Commons.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall give you herein a short account of our pas<g ref="char:EOLhyphen"/>sages before <hi>Raglan</hi> ca<g ref="char:EOLhyphen"/>stle; you shall receive in<g ref="char:EOLhyphen"/>closed my last Summons to the Earl of <hi>Worcester</hi> and his Answer, by which it will appear unto your Ho<g ref="char:EOLhyphen"/>nor how wilful and obstinate they still continue there. Our duties here are very hard, by reason of the Ene<g ref="char:EOLhyphen"/>mies often and strong Sallies, who are strong in number and power; I have a heavie burthen upon my shoulders, but I hope, with the addi<g ref="char:EOLhyphen"/>tional
+<pb n="4" facs="tcp:159772:3"/> Forces that comes from His Excellency, and are now upon their march, I shall the easier undergo it. This day the Enemy made a strong sally out with Horse and Foot, but I thank God for it, they were beaten in again, and pursued them to their very works, and did very good exe<g ref="char:EOLhyphen"/>cution upon their Horse and Foot, with no losse at all of our side. His Excellency Sir <hi>Thomas Fairfax</hi> hath bin pleased to furnish me with Mor<g ref="char:EOLhyphen"/>ter pieces, Guns and other materials fit for the effecting of this work, and I hope will be with me very sudden. I have no more at this present, but that I subscribe my self to be</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your most humble Servant, Tho: Morgan.</signed>
+               <dateline>From the Leaguer before <hi>Raglan</hi> castle, <date>June 29. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:159772:3"/>
+            <head>
+               <hi>For</hi> Henry <hi>Earl of</hi> VVorcester, <hi>Go<g ref="char:EOLhyphen"/>vernor of</hi> Raglan<hi>-Castle.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>BY His Excellencies command, this is my second Summons, whereby you are required forthwith to deliver to me to the use of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, the Castle of <hi>Raglan,</hi> with all the Ordnance, Arms, Ammunition, and Provisions, and all other ne<g ref="char:EOLhyphen"/>cessaries that belongs to the War, that are now in it; which if you will be pleased to do, you may haply finde mercy, as other Garrisons have had; and if you do refuse, expect but the Ruine of your self, your Fa<g ref="char:EOLhyphen"/>mily, and this poor distressed Countrey: For I must acquaint your Lordship, That His Excellency Sir <hi>Thomas Fairfax</hi> having now finished his work over the Kingdom, except this Castle, hath been pleased to spare his Forces for this work, which are now upon their march this way, with all materials fit for it; though I made no doubt but I had of mine own strength sufficient to effect it, if your Lordship will deny to submit to this Summons, and that more blood must be sprit, your Lordship may be confident that you shall receive no favour from both Houses of Par<g ref="char:EOLhyphen"/>liament: So expecting your Answer this night by nine of the clock, I rest,</p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer before</hi> Raglan, <date>
+                     <hi>Iune</hi> 28. 1646.</date>
+               </dateline>
+               <signed>Your Lordships Servant, THO: MORGAN.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Upon the Faith and Honor of a Souldier, this is a true Copy of His Majesties Letter to the Governor of</hi> Oxford,
+<pb n="6" facs="tcp:159772:4"/> Lichfield, Walling ford <hi>and</hi> Worcester, <hi>and of all other Garrisons in the Kingdom of</hi> England <hi>and Dominion of</hi> Wales, <hi>which I thought fit to present to your Lordship, whereby you may cleerly see what probability of Relief you are like to have: And to give you further satisfacti<g ref="char:EOLhyphen"/>on, upon Tuesday last I was in</hi> Oxford, <hi>where I bought this <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aper to present this News unto you. Upon Wednesday morning last</hi> Oxford <hi>and</hi> Farringdon <hi>met togetker, and every one marched to their own homes: The Princes are to march b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yond the Seas. These things being as cleer as the Sun, I leave to your consideration.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>For Colonel</hi> Morgan, <hi>Commander in chief of the Forces before</hi> Raglan.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have received this day two Advertisements from you; the first <hi>I</hi> did reade, containing, as you would have me believe, a true Copy of His Ma<g ref="char:EOLhyphen"/>jesties Warrant to several Garrisons upon Honor<g ref="char:EOLhyphen"/>able terms to quit, &amp;c. But truly, Sir, it is not in the power of man to make me think so unworthily of His Majesty, that to one, in the opinion of the world, that hath given himself and Family so great a Remon<g ref="char:EOLhyphen"/>strance and Testimony of his and their faith and fi<g ref="char:EOLhyphen"/>delity towards him, that he would not please so much as to name his Name in <hi>Raglan. I</hi> entreat you to
+<pb n="7" facs="tcp:159772:4"/> give me leave to suspend my Belief: And for your second Summons, it makes it too evident, that it is desired <hi>I</hi> should dye under a hedge like a Beggar, having no house to put my head into, nor means left to finde me Bread: wherefore, to give you Answer, <hi>I</hi> make choyce (if it so please God) rather to dye No<g ref="char:EOLhyphen"/>bly, then to live with infamy: Which Answer, if it be not pleasing unto you, <hi>I</hi> shall not think you worthy to be stiled by me,</p>
+            <closer>
+               <dateline>
+                  <hi>From my house at</hi> Raglan, <date>
+                     <hi>June</hi> 28. 1646.</date>
+               </dateline>
+               <signed>Your loving friend and Servant,</signed>
+               <signed>H: Worcester.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>For</hi> Henry <hi>Earl of</hi> VVorcester, <hi>Go<g ref="char:EOLhyphen"/>vernor of</hi> RAGLAN-Castle.</head>
+            <p>My LORD,</p>
+            <p>SInce it is not in my power to make you nor your Son believe any thing concerning the Surrender ef those Garrisons by His Majesties order, that comes from me or any of our party; once more, and the last, berore I send your Answer to His Excellency Sir <hi>Thomas Fairfax,</hi> I shall give your Lordship way to send an Officer, with another of mine, to those Lords in <hi>Oxford</hi> to whom His Majesties Letters were direct<g ref="char:EOLhyphen"/>ed, for your better satisfaction. This I do, my Lord, with a respect to prevent your utter and the ruine of this poor Countrey, so much occasioned by your Lordships obstinacy: I expect your present Answer, and rest,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 28. 1646.</date>
+               </dateline>
+               <signed>Your Servant, Tho: Morgan.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:159772:5"/>
+            <head>
+               <hi>For Colonel</hi> Morgan, <hi>Commander in chief of the Parliaments Forces before</hi> Raglan.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN respect of your mentioning of any respect or kindenesse towards me, least to be divulged to the world might do you any prejudice, I have thought fit in your own Letter to return you thanks for the same: and for Sir <hi>Thomas Fairfax,</hi> if he were here with all his Army, he should receive no other from me then you have had: I hope I serve (though not so well as I should) a Master that is of more might then all the Armies in the world; and to his holy will and plea<g ref="char:EOLhyphen"/>sure I submit my self, and your self, to do what you do think fitting; and so rest,</p>
+            <closer>
+               <dateline>
+                  <hi>From my dwelling at</hi> Raglan, <date>
+                     <hi>June</hi> 28. 1646.</date>
+               </dateline>
+               <signed>Your Friend and Servant, H: WORCESTER.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
